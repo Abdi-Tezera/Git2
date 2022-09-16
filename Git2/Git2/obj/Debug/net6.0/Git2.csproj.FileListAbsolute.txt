@@ -1,0 +1,15 @@
+C:\Users\Abdi\Desktop\Git2\Git2\Git2\bin\Debug\net6.0\Git2.exe
+C:\Users\Abdi\Desktop\Git2\Git2\Git2\bin\Debug\net6.0\Git2.deps.json
+C:\Users\Abdi\Desktop\Git2\Git2\Git2\bin\Debug\net6.0\Git2.runtimeconfig.json
+C:\Users\Abdi\Desktop\Git2\Git2\Git2\bin\Debug\net6.0\Git2.dll
+C:\Users\Abdi\Desktop\Git2\Git2\Git2\bin\Debug\net6.0\Git2.pdb
+C:\Users\Abdi\Desktop\Git2\Git2\Git2\obj\Debug\net6.0\Git2.csproj.AssemblyReference.cache
+C:\Users\Abdi\Desktop\Git2\Git2\Git2\obj\Debug\net6.0\Git2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdi\Desktop\Git2\Git2\Git2\obj\Debug\net6.0\Git2.AssemblyInfoInputs.cache
+C:\Users\Abdi\Desktop\Git2\Git2\Git2\obj\Debug\net6.0\Git2.AssemblyInfo.cs
+C:\Users\Abdi\Desktop\Git2\Git2\Git2\obj\Debug\net6.0\Git2.csproj.CoreCompileInputs.cache
+C:\Users\Abdi\Desktop\Git2\Git2\Git2\obj\Debug\net6.0\Git2.dll
+C:\Users\Abdi\Desktop\Git2\Git2\Git2\obj\Debug\net6.0\refint\Git2.dll
+C:\Users\Abdi\Desktop\Git2\Git2\Git2\obj\Debug\net6.0\Git2.pdb
+C:\Users\Abdi\Desktop\Git2\Git2\Git2\obj\Debug\net6.0\Git2.genruntimeconfig.cache
+C:\Users\Abdi\Desktop\Git2\Git2\Git2\obj\Debug\net6.0\ref\Git2.dll
